@@ -45,6 +45,7 @@ main h1 {
     font-weight: bold;
     margin: 0;
     user-select: none;
+    pointer-events: none;
 }
 
 main div {
